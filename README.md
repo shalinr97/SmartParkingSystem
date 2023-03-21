@@ -12,6 +12,12 @@
 1. Arduino IDE with Firebase and Ultrasonic Libraries Installed
 2. Firebase Account
 
+#### Hardware Connection
+VCC	- Powers the sensor (5V)
+Trig - Trigger Input Pin
+Echo - Echo Output Pin
+GND	- Common GND
+
 #### Steps to Run the Code:
 1. Connect ESP32 Module to the system with the help of USB Cable.
 2. Set up the Board as "ESP32 Dev Module"

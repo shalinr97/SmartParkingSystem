@@ -13,10 +13,10 @@
 2. Firebase Account
 
 #### Hardware Connection
-VCC	- Powers the sensor (5V)
-Trig - Trigger Input Pin
-Echo - Echo Output Pin
-GND	- Common GND
+1. VCC	- Powers the sensor (5V)
+2. Trig - Trigger Input Pin
+3. Echo - Echo Output Pin
+4. GND	- Common GND
 
 #### Steps to Run the Code:
 1. Connect ESP32 Module to the system with the help of USB Cable.
